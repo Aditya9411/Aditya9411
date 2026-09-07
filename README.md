@@ -184,7 +184,7 @@ Topics demonstrated:
 
 ---
 
-# 📚 Currently Strengthening
+# 🎯 Areas of Focus.
 
 ```text
 🔥 Advanced PySpark
@@ -197,16 +197,11 @@ Topics demonstrated:
 
 ---
 
-# 📊 GitHub Stats
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya9411&show_icons=true&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya9411&layout=compact&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Aditya9411&hide_border=true" />
 </p>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya9411\&layout=compact)
 
 ---
 
