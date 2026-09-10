@@ -200,7 +200,7 @@ Topics demonstrated:
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Aditya9411&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Aditya9411&hide_border=true" alt="Aditya's GitHub Streak" />
 </p>
 
 ---
