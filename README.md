@@ -199,8 +199,14 @@ Topics demonstrated:
 
 ## 📊 GitHub Activity
 
+## 📊 GitHub Activity
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aditya9411&show_icons=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya9411&layout=compact&hide_border=true" />
 </p>
 
 ---
