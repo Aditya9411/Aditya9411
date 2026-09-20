@@ -5,7 +5,7 @@
 Data Engineer with nearly **3 years of industry experience at Wipro**, focused on building scalable ETL/ELT pipelines, lakehouse architectures, and batch & streaming data solutions.
 
 🎓 MSc Data Analytics — National College of Ireland
-🏅 Microsoft Certified — **DP-600 & DP-700**
+🏅 Microsoft Certified — **4× Microsoft Certified **
 📍 Dublin, Ireland
 💼 Open to **Data Engineer / Databricks / Microsoft Fabric / Analytics Engineer** opportunities
 
